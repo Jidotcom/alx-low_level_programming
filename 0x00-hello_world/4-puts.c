@@ -1,5 +1,5 @@
 #include <stdio.h>
-# coding using the pits function
+# This shows using the puts function
 /**
  * main - entry point for compilation
  *
