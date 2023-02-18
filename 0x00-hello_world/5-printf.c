@@ -1,5 +1,5 @@
 #include <stdio.h>
-# This explains the use of printf in coding
+
 /**
  * main - entry point for coding
  *
