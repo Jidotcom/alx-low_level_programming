@@ -1,5 +1,5 @@
 #include <stdio.h>
-# This shows using the puts function
+
 /**
  * main - entry point for compilation
  *
